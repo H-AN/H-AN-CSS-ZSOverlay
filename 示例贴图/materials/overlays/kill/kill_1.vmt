@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "Overlays/kill/kill_1"
+	"$REFRACTTINT" "{128 128 128}"
+	"$additive" "1"
+}

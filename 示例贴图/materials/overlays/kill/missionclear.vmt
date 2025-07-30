@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+    "$basetexture" "overlays/kill/missionclear"
+    "$translucent" 1
+}

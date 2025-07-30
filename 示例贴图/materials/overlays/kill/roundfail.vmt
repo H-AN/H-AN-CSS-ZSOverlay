@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+    "$basetexture" "overlays/kill/roundfail"
+    "$translucent" 1
+}

@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+    "$basetexture" "overlays/kill/kill_10"
+    "$translucent" "1"                         // 启用透明效果
+    "$alpha" "1"                               // 控制透明度，1为完全不透明，0为完全透明
+    "$opacity" "0.5"                           // 设置透明度为50%（半透明）
+    "$blendmode" "0"                           // 使用标准Alpha混合模式
+}
